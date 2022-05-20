@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikas9522
-- 👀 I’m interested in cyber security and digital forensic and blockchain technology
+- 👀 I’m interested in cyber security and digital forensic,blockchain technology and web development 
 - 🌱 I’m currently learning cyber security and digital forensic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -vt952238@gmail.com
