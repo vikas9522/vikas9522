@@ -1,7 +1,7 @@
 
 <h1 align="left">I Am Vikas Tomar</h1> 
 <h4 align="left"> Pursuing integrated M.Tech With Specializations in Cyber Security at Vellore Institute Of Technology Bhopal University 🎓 </h4>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate cyber security professional student and web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas9522&label=Profile%20views&color=0e75b6&style=flat" alt="vikas9522" /> </p>
 
